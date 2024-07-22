@@ -1,0 +1,2 @@
+# temu-
+使用DrissionPage写的自动化爬虫去爬取temu素材中心图片ID填写到商品模版中进行批量上传
